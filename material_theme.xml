@@ -1,0 +1,14 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="allowDataCollection" value="true" />
+    <option name="highlightColorEnabled" value="true" />
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="accentColor" value="ff79c5" />
+    <option name="highlightColor" value="005bbc" />
+    <option name="selectedTheme" value="DRACULA" />
+    <option name="userId" value="-6564cfb4:16c3a61c82b:-8000" />
+    <option name="version" value="4.11.4" />
+  </component>
+</application>

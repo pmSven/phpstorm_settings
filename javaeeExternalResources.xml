@@ -1,0 +1,12 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://maven.apache.org/xsd/maven-4.0.0.xsd" location="$USER_HOME$/Library/Caches/PhpStorm2018.3/extResources/e1f42d95_maven-4.0.0.xsd" />
+    <resource url="https://raw.githubusercontent.com/shopware/platform/master/src/Core/System/SystemConfig/Schema/config.xsd" location="$USER_HOME$/Library/Caches/PhpStorm2018.3/extResources/d71aa3af_config.xsd" />
+    <resource url="https://raw.githubusercontent.com/shopware/shopware/5.2/engine/Shopware/Components/Plugin/schema/config.xsd" location="$USER_HOME$/Library/Caches/PhpStorm2018.3/extResources/6c96297d_config.xsd" />
+    <resource url="https://raw.githubusercontent.com/shopware/shopware/5.2/engine/Shopware/Components/Plugin/schema/menu.xsd" location="$USER_HOME$/Library/Caches/PhpStorm2018.3/extResources/5e013d1a_menu.xsd" />
+    <resource url="https://raw.githubusercontent.com/shopware/shopware/5.2/engine/Shopware/Components/Plugin/schema/plugin.xsd" location="$USER_HOME$/Library/Caches/PhpStorm2018.3/extResources/23f4b4ee_plugin.xsd" />
+    <resource url="https://raw.githubusercontent.com/shopware/shopware/5.3/engine/Shopware/Components/Plugin/schema/plugin.xsd" location="$USER_HOME$/Library/Caches/PhpStorm2018.3/extResources/b12f666f_plugin.xsd" />
+    <resource url="https://raw.githubusercontent.com/shopwareLabs/psh/master/resource/config.xsd" location="$USER_HOME$/Library/Caches/PhpStorm2018.3/extResources/60a8dfab_config.xsd" />
+    <resource url="https://schema.phpunit.de/8.0/phpunit.xsd" location="$USER_HOME$/Library/Caches/PhpStorm2019.3/extResources/c2efe264_phpunit.xsd" />
+  </component>
+</application>
